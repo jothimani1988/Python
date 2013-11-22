@@ -1,0 +1,24 @@
+#Output
+Company: A
+Year: 1992
+Month:  Dec
+Highest Share: 135
+
+
+Company: B
+Year: 1992
+Month:  Dec
+Highest Share: 185
+
+
+Company: C
+Year: 1992
+Month:  Dec
+Highest Share: 235
+
+
+Company: D
+
+Year: 1992
+Month:  Dec
+Highest Share: 535
